@@ -1,0 +1,6 @@
+  // Hesap(yatan(int),çekilen(int), bakiye(int))
+  // Müşteri (müşteriNo(int), ad, soyad, MüşteriHesap(Hesap tipinde))
+  // Bir banka uygulaması için 1 müşteri tanımlayınız
+  // müşterinin hesabına sırasıyla 100 tl,200 tl yatırınız,sonra 50 tl çekiniz.
+  // Müşterinin toplam yatanı, toplam çekileni ve kalan bakiyesini yazdırınız
+  // bakiyeye direkt para atanamadığını kontrol ediniz.

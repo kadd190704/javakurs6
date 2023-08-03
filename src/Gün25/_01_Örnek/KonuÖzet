@@ -1,0 +1,27 @@
+int sayı; int sayının tipi     , sayı ise değişkenin adı
+
+int türünden bir sayı değişkeni
+
+eski tip programcılık
+-----------------------------------------
+Öğrenci: okuldaki Ahmet in tipi
+
+tip     nesne ,değişken varlık: Nesneye yönelik programlama
+Öğrenci Ahmet=new Öğrenci();                  Object Oriented Programming :OPP
+
+class Öğrenci{ class: bunun tip olduğunu gösterir
+   okulNo
+   adı
+   soyadı
+   sınıfı
+   adresi
+   telefonu
+
+ }
+
+ Kargo
+ Çalışan
+ Müşteri
+ Vatandaş
+
+

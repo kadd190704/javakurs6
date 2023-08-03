@@ -1,0 +1,10 @@
+Access Modifiers(Erişim belirtecleri,izinler)
+1-Clasın içinde erişim
+2- Paketin içinden erişim
+3-Diğer paketlerden erişim
+
+public,private,default(hiç bir şey yazılmazsa,friendly), protected
+
+public: projenin her yernden erişime açık class,metod,field
+
+
